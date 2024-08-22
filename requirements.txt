@@ -1,0 +1,7 @@
+ArabicOcr
+pdf2image
+Pillow
+pytesseract
+opencv-python
+
+
